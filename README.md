@@ -1,4 +1,4 @@
-# Hi, I'm Mojahid 👋
+# Hi there, 👋
 
 👨‍💻 I’m a passionate software Programmer, constantly learning and practicing to strengthen my expertise in backend development. My journey in coding has equipped me with a solid foundation in:
 
