@@ -1,6 +1,6 @@
 # Hi, I'm Mojahid 👋
 
-👨‍💻 I’m a passionate software engineer, constantly learning and practicing to strengthen my expertise in backend development. My journey in coding has equipped me with a solid foundation in:
+👨‍💻 I’m a passionate software Programmer, constantly learning and practicing to strengthen my expertise in backend development. My journey in coding has equipped me with a solid foundation in:
 
 - **Node.js** & **Express.js** 🚀
 - **Python** & **Django** 🐍
